@@ -1,0 +1,5 @@
+Symptom,Possible Diseases,Severity,Average Duration (days),Common in Region,Language Availability
+Fever,"Malaria, Dengue, Typhoid",Moderate,7,Pan-India,"English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali"
+Persistent cough,"Tuberculosis, Bronchitis, COVID-19",Moderate,14,Pan-India,"English, Hindi, Tamil, Bengali, Marathi"
+Joint pain,"Chikungunya, Arthritis, Dengue",Moderate,10,Pan-India,"English, Hindi, Tamil, Telugu, Kannada"
+Skin rash,"Chickenpox, Measles, Allergic dermatitis",Mild,7,Pan-India,"English, Hindi, Tamil, Bengali, Marathi"
